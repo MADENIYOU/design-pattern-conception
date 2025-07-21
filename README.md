@@ -250,4 +250,3 @@ L'architecture suit le patron de **Fabrique Abstraite**. Le diagramme ci-dessous
                  |         FabriqueCraqueur        | (via l'interface)
                  +---------------------------------+
 ```
->>>>>>> 6bd6367 (ajout readme et dictionnaire)
