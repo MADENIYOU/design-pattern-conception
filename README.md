@@ -1,4 +1,3 @@
-
 # Password Cracker Factory
 
 Ce projet est une application en ligne de commande permettant de réaliser des attaques de cassage de mot de passe. Il a été conçu en mettant l'accent sur une architecture logicielle modulaire et extensible, en s'appuyant sur des patrons de conception fondamentaux.
